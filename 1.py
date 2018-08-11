@@ -3,7 +3,7 @@ import cv2
 import time
 =======
 
-cv2.namedWindow("preview6666")
+cv2.namedWindow("ppp6666")
 vc = cv2.VideoCapture(0)
 
 cascPath = "haarcascade.xml"
